@@ -73,38 +73,9 @@ System.out.println("Enter the amount That You want to Deposit:");
 double depositAmount=s.nextDouble();
 account1.deposit(depositAmount);
 // Withdraw 200
-System.out.println("Enter the amount That You want to Withdrawr:");
+System.out.println("Enter the amount That You want to Withdraw:");
 double withdrawAmount=s.nextDouble();
 account1.withdraw(withdrawAmount);
 // Display account information
     }
 }
-
-0 comments on commit 22a9864
-@21bca50
- 
-Add heading textAdd bold text, <Ctrl+b>Add italic text, <Ctrl+i>
-Add a quote, <Ctrl+Shift+.>Add code, <Ctrl+e>Add a link, <Ctrl+k>
-Add a bulleted list, <Ctrl+Shift+8>Add a numbered list, <Ctrl+Shift+7>Add a task list, <Ctrl+Shift+l>
-Directly mention a user or team
-Reference an issue, pull request, or discussion
-Add saved reply
-Leave a comment
-No file chosen
-Attach files by dragging & dropping, selecting or pasting them.
-Styling with Markdown is supported
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Create sol.1 · vtcbca/406-java-journal-21bca50@22a9864 
